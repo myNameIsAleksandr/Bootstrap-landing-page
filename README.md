@@ -3,4 +3,5 @@ The goal of the project is to learn how to layout a page using the Bootstrap lib
 
 This landing page has an adaptive design, contains 6 main base sections.
 
-https://mynameisaleksandr.github.io/Bootstrap-landing-page/
+[Live Demo](https://mynameisaleksandr.github.io/Bootstrap-landing-page/]
+
